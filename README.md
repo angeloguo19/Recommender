@@ -1,2 +1,2 @@
 # recommender
-Project completed for Duke COMPSCI101: Introduction to Computer Programming. Data from Kristin Stephens-Martinez, Duke University.
+Recommendation engine to help overcome indecision based on aggregate ratings of category items and implementation of content-based filtering and collaborative filtering
